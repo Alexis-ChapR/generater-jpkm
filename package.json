@@ -1,0 +1,16 @@
+{
+  "name": "generater-jpkm",
+  "version": "1.0.1",
+  "description": "",
+  "main": "./cli.js",
+  "bin": {
+    "generate-structure": "./cli.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "mkdirp": "^3.0.1"
+  }
+}
